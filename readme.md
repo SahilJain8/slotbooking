@@ -27,7 +27,7 @@ To install and run this project, follow the steps below:
 
    
 
-git clone https://github.com/<username>/slotbooking.git
+gti clone https://github.com/SahilJain8/slotbooking.git
 
 Install Python 3.8 or higher and create a virtual environment using venv.
 
